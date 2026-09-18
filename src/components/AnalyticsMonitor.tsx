@@ -82,9 +82,9 @@ export const AnalyticsMonitor: React.FC = () => {
 
           {/* Instructions snippet */}
           <div className="bg-[#191e2e] px-3 py-2 border-b border-[#252e42] text-[11px] text-gray-300 flex items-start gap-2">
-            <Info className="w-4 h-4 text-amber-400 shrink-0 mt-0.5" />
+            <Info className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
             <span>
-              Todos os disparos estão instrumentados e prontos. Quando o Measurement ID for fornecido, a tag deve ser colada no local reservado em <code>index.html</code>.
+              Google Analytics 4 ativo (<strong className="text-amber-300 font-mono">G-ZEH2MTTVJE</strong>). Os eventos customizados são enviados diretamente via <code>gtag(&apos;event&apos;, ...)</code>.
             </span>
           </div>
 
