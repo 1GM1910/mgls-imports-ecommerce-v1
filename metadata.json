@@ -1,0 +1,6 @@
+{
+  "name": "MGLS Imports — E-commerce V1",
+  "description": "Protótipo funcional e comercial da loja MGLS Imports com catálogo diversificado, busca interativa, categorias, carrinho, checkout demonstrativo e estrutura pronta para Google Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
